@@ -1,7 +1,8 @@
 package academy.devdojo.course.endpoint.service;
 
-import academy.devdojo.course.model.Course;
-import academy.devdojo.course.repository.CourseRepository;
+import academy.devdojo.core.model.Course;
+import academy.devdojo.core.repository.CourseRepository;
+
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;

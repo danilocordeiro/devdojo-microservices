@@ -1,4 +1,4 @@
-package academy.devdojo.course.model;
+package academy.devdojo.core.model;
 
 import lombok.*;
 
